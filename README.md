@@ -1,0 +1,2 @@
+# export_by_md_from_knowledge
+knowledgeの全記事をmarkdown形式で出力するスクリプト
